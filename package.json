@@ -14,5 +14,17 @@
   },
   "devDependencies": {
     "prettier": "^3.3.3"
-  }
+  },
+  "description": "This is a backend application built with **Node.js**, **Express**, and **MongoDB**, following the **MVC architecture**. It includes user authentication with **JWT** and password hashing using **bcrypt.js**.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARYANTYAGI1/Backend-Starter-Template.git"
+  },
+  "author": "Aryan Tyagi <aryantyagi296@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARYANTYAGI1/Backend-Starter-Template/issues"
+  },
+  "homepage": "https://github.com/ARYANTYAGI1/Backend-Starter-Template#readme"
 }
